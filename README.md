@@ -3,7 +3,7 @@
 ### Build full featured backend APIs incredibly quickly with Nest, TypeORM, and Typescript. Includes testing and deployment!
 
 - [x] Get Started Here!
-- [] The Basics of Nest
+- [x] The Basics of Nest
 - [] Generating Projects with the Nest CLI
 - [] Nest Architecture Services and Repositories
 - [] Nest Architecture Organizing Code with Modules
