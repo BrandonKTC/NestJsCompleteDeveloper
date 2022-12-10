@@ -6,7 +6,7 @@
 - [x] The Basics of Nest
 - [x] Generating Projects with the Nest CLI
 - [x] Validating incoming Request Data with Pipes
-- [] Nest Architecture Services and Repositories
+- [x] Nest Architecture Services and Repositories
 - [] Nest Architecture Organizing Code with Modules
 - [] Big Project Time!
 - [] Persisting data with TypeORM
