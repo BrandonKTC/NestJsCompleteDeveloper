@@ -5,6 +5,7 @@
 - [x] Get Started Here!
 - [x] The Basics of Nest
 - [x] Generating Projects with the Nest CLI
+- [x] Validating incoming Request Data with Pipes
 - [] Nest Architecture Services and Repositories
 - [] Nest Architecture Organizing Code with Modules
 - [] Big Project Time!
