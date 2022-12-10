@@ -4,7 +4,7 @@
 
 - [x] Get Started Here!
 - [x] The Basics of Nest
-- [] Generating Projects with the Nest CLI
+- [x] Generating Projects with the Nest CLI
 - [] Nest Architecture Services and Repositories
 - [] Nest Architecture Organizing Code with Modules
 - [] Big Project Time!
