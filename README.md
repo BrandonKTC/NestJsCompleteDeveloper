@@ -7,7 +7,7 @@
 - [x] Generating Projects with the Nest CLI
 - [x] Validating incoming Request Data with Pipes
 - [x] Nest Architecture Services and Repositories
-- [] Nest Architecture Organizing Code with Modules
+- [x] Nest Architecture Organizing Code with Modules
 - [] Big Project Time!
 - [] Persisting data with TypeORM
 - [] Creating and Saving User Data
