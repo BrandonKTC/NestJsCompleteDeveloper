@@ -9,7 +9,7 @@
 - [x] Nest Architecture Services and Repositories
 - [x] Nest Architecture Organizing Code with Modules
 - [x] Big Project Time!
-- [] Persisting data with TypeORM
+- [x] Persisting data with TypeORM
 - [] Creating and Saving User Data
 - [] Custom Data Serialization
 - [] Authentication From Scratch
