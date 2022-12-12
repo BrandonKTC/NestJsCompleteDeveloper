@@ -10,7 +10,7 @@
 - [x] Nest Architecture Organizing Code with Modules
 - [x] Big Project Time!
 - [x] Persisting data with TypeORM
-- [] Creating and Saving User Data
+- [x] Creating and Saving User Data
 - [] Custom Data Serialization
 - [] Authentication From Scratch
 - [] Getting Started with Unit Testing
