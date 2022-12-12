@@ -11,7 +11,7 @@
 - [x] Big Project Time!
 - [x] Persisting data with TypeORM
 - [x] Creating and Saving User Data
-- [] Custom Data Serialization
+- [x] Custom Data Serialization
 - [] Authentication From Scratch
 - [] Getting Started with Unit Testing
 - [] Integration Testing
